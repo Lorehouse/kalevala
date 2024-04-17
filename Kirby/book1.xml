@@ -16,13 +16,7 @@
     </teiHeader>
     <text>
         <body>
-            <div></div>
-        </body>
-    </text>
-</TEI>
-
-<body>
-    The Project Gutenberg eBook of Kalevala, The Land of the Heroes, Volume One
+            <div> The Project Gutenberg eBook of Kalevala, The Land of the Heroes, Volume One
     
 This ebook is for the use of anyone anywhere in the United States and
 most other parts of the world at no cost and with almost no restrictions
@@ -15095,5 +15089,7 @@ MADE AT THE
 TEMPLE PRESS
 LETCHWORTH
 IN
-GREAT BRITAIN
-</body>
+GREAT BRITAIN</div>
+        </body>
+    </text>
+</TEI>

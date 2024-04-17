@@ -16,22 +16,7 @@
     </teiHeader>
     <text>
         <body>
-            <div></div>
-        </body>
-    </text>
-</TEI>
-<body>
-The Project Gutenberg eBook of Kalevala, The Land of the Heroes, Volume One
-    
-This ebook is for the use of anyone anywhere in the United States and
-most other parts of the world at no cost and with almost no restrictions
-whatsoever. You may copy it, give it away or re-use it under the terms
-of the Project Gutenberg License included with this ebook or online
-at www.gutenberg.org. If you are not located in the United States,
-you will have to check the laws of the country where you are located
-before using this eBook.
-
-Title: Kalevala, The Land of the Heroes, Volume One
+            <div>Title: Kalevala, The Land of the Heroes, Volume One
 
 Compiler: Elias Lönnrot
 
@@ -53,9 +38,9 @@ Online Distributed Proofreading Team (http://www.pgdp.net)
 
 Transcriber's note:
 
-   [=a] indicates a with macron
-   [)a] indicates a with breve
-   [)e] indicates e with breve]
+   ā indicates a with macron
+   á indicates a with breve
+   é indicates e with breve
 
 
 
@@ -87,7 +72,7 @@ VOLUME ONE
 
 
 
-London: J. M. Dent & Sons Ltd.
+London: J. M. Dent &amp; Sons Ltd.
 New York: E. P. Dutton & Co. Inc.
 
 All rights reserved
@@ -144,7 +129,7 @@ Lappish and Esthonian, and more distantly to Turkish and Hungarian,
 There are only twenty-one letters in the alphabet; the letter J is
 pronounced like Y (as a consonant), and Y almost as a short I. The first
 syllable of every word is accented. This renders it difficult to
-accommodate such words as _K[=a]l[)e]v[)a]l[=a]_ to the metre; but I
+accommodate such words as _Kāléválā_ to the metre; but I
 have tried to do my best.
 
 The Finlanders are very fond of old ballads, of which a great number
@@ -15095,4 +15080,6 @@ TEMPLE PRESS
 LETCHWORTH
 IN
 GREAT BRITAIN
+</div>
 </body>
+</TEI>
